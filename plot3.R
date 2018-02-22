@@ -6,7 +6,6 @@
 # Remarks  : Creates a plot with lines corresponding to sub metering 1,2, and 3
 #            energy values across Feb 1,2017 and Feb 2,2017.
 ################################################################################
-setwd("D:/Working_Dir/R/Exploaratory Data Analysis")
 
 #Download the file and extract the contents
 fileURL <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
