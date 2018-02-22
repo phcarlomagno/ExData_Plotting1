@@ -5,7 +5,6 @@
 # Version  : 1.0 
 # Remarks  : Creates 4 plots in a single canvas
 ################################################################################
-setwd("D:/Working_Dir/R/Exploaratory Data Analysis")
 
 #Download the file and extract the contents
 fileURL <- "https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip"
